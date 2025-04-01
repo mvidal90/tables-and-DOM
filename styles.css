@@ -15,3 +15,12 @@ td {
     padding: 0.25rem;
     background-color: rgb(168, 201, 190);
 }
+
+.cell-green {
+    background-color: #12d112;
+}
+
+.cell-red {
+    background-color: #bb1919;
+    color: #FFF;
+}
